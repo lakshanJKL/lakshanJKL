@@ -12,6 +12,6 @@
 [![](https://visitcount.itsvg.in/api?id=lakshanJKL&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <br>
-<img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
+<!-- <img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat"> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
