@@ -16,7 +16,7 @@ I'm a software developer with experience in Java and Rust development. I create 
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lakshanJKL&theme=dark&hide_border=false" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=lakshanJKL&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <!--<img src="https://streak-stats.demolab.com/?user=lakshanJKL&theme=dark&hide_border=false" alt="GitHub Streak" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanJKL&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
